@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rtogoev
-- 🌱 I’m currently learning nothing at all.
 - 📫 How to reach me rtogoev92@yandex.ru
 
 <!---
