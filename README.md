@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rtogoev
-- 🌱 I’m currently learning javascript on EN:https://javascript.info/  RU: https://learn.javascript.ru/
+- 🌱 I’m currently learning nothing at all.
 - 📫 How to reach me rtogoev92@yandex.ru
 
 <!---
